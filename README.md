@@ -1,1 +1,1 @@
-3D game made by me to learn rust and Bevy
+2D game made by me to learn rust and Bevy
